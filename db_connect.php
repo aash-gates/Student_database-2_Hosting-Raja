@@ -1,6 +1,6 @@
 <?php
 // Database configuration
-$db_host = "sql11.freemysqlhosting.net"; // Server: Hostname of the database server
+$db_host = ""; // Server: Hostname of the database server
 $db_username = "sql11695074"; // Username: Username for database access
 $db_password = "8aKsudJmLp"; // Password: Password for database access
 $db_name = "sql11695074"; // Name: Name of the database (without file extension)
