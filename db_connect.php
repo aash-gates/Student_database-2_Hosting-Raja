@@ -3,7 +3,7 @@
 $db_host = ""; // Server: Hostname of the database server
 $db_username = ""; // Username: Username for database access
 $db_password = ""; // Password: Password for database access
-$db_name = "sql11695074"; // Name: Name of the database (without file extension)
+$db_name = ""; // Name: Name of the database (without file extension)
 $db_port = "3306"; // Port number: Port number for the database connection
 
 // Attempt to establish a connection to the database
