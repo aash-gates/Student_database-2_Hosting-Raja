@@ -19,7 +19,7 @@ style.css: CSS file containing styles for the HTML pages.
 Clone the repository to your local machine:
 bash
 
-##Copy code:
+## Copy code:
      git clone https://github.com/aash-gates/Student_database-2_Hosting-Raja.git
      
 Import the database schema from database.sql to your MySQL database.
